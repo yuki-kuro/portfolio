@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/sotugyouseisaku.css">
+  <link rel="stylesheet" href="css/kyoutuu.css">
+  <title>卒業制作 02番 黒木</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="js/hamb.js"></script>
+</head>
+
+<body>
+  <button type="button" class="btn js-btn">
+    <span class="btn-line"></span>
+  </button>
+  <nav>
+    <ul class="menu">
+      <li class="menu-list" onclick="window.location.href='index.html'">TOP</li>
+      <li class="menu-list" onclick="window.location.href='http://localhost:8080/JankenServletGame/JankenServlet'">制作物1</li>
+      <li class="menu-list" onclick="window.location.href='http://localhost:8080/BJServletRensyu2/BlackjackServlet'">制作物2</li>
+      <li class="menu-list" onclick="window.location.href='http://localhost:8080/TypingGame/TypingGameServlet'">制作物3</li>
+      <li class="menu-list" onclick="window.location.href='furikaeri.html'">訓練振り返り</li>
+    </ul>
+  </nav>
+  <div class="wrapper">
+	  <br><br>
+    <h1 class="toppage"><span class="midashi">卒業制作発表 02番 黒木</span></h1>
+    <br>
+    <h3><a href="https://github.com/yuki-kuro/portfolio.git" class="github">githubへのリンク</a></h3>
+    <br>
+        <h2>苦労した点と追加したい機能について</h2>
+        <br>
+    <h3><a href="http://localhost:8080/JankenServletGame/JankenServlet">制作物1: じゃんけんゲーム</a></h3>
+    <ul class="setumei" class="setumei">
+		<li>じゃん...けん...ぽん!と間隔をあけて表示させる方法</li>
+		<li>セッションスコープをいつ破棄するか</li>
+		<li>DBを利用したセーブとロード機能</li>
+    </ul>
+    <br>
+    <h3><a href="http://localhost:8080/BJServletRensyu2/BlackjackServlet">制作物2: ブラックジャック</a></h3>
+    <ul class="setumei">
+		<li>JavaのScannerクラスとHTMLのformタグとの違い</li>
+		<li>トランプの画像を表示させる</li>
+		<li>ルール説明 </li>
+    </ul>
+    <br>
+    <h3><a href="http://localhost:8080/TypingGame/TypingGameServlet">制作物3: タイピング</a></h3>
+    <ul class="setumei">
+		<li>ゲーム開始ボタン</li>
+		<li>かかった時間を計測する機能</li>
+		<li>DBを利用して単語を登録､更新､削除する機能</li>
+    </ul>
+    <br>
+    <h2>卒業制作まとめ</h2>
+    <br>
+       <ul class="setumei">
+		<li>DBとの連携に再挑戦したい</li>
+		<li>javascript面白そう</li>
+		<li>photopea使いやすい</li>
+    </ul>
+  </div>
+
+  
+  <footer>
+    <p>2023 ALL RIGHT RESERVED.</p>
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.132
+C:\Users\SB\Desktop\sotugyou_02_kuroki\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3926485296.index
+\JankenServletGame\src\main\java
+C:\Users\SB\Desktop\sotugyou_02_kuroki\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4116802711.index
+\TypingGame\src\main\java
+C:\Users\SB\Desktop\sotugyou_02_kuroki\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2124726990.index
+\BJServletRensyu2\src\main\java

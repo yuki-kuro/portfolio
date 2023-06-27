@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/kyoutuu.css">
+  <link rel="stylesheet" href="css/sotugyouseisaku.css">
+  <title>訓練振り返り</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="js/hamb.js"></script>
+</head>
+
+<body>
+  <button type="button" class="btn js-btn">
+    <span class="btn-line"></span>
+  </button>
+  <nav>
+    <ul class="menu">
+      <li class="menu-list" onclick="window.location.href='index.html'">TOP</li>
+				<li class="menu-list" onclick="window.location.href='http://localhost:8080/JankenServletGame/JankenServlet'">制作物1</li>
+				<li class="menu-list" onclick="window.location.href='http://localhost:8080/BJServletRensyu2/BlackjackServlet'">制作物2</li>
+				<li class="menu-list" onclick="window.location.href='http://localhost:8080/TypingGame/TypingGameServlet'">制作物3</li>
+      <li class="menu-list" onclick="window.location.href='furikaeri.html'">訓練振り返り</li>
+    </ul>
+  </nav>
+  <div class="wrapper">
+			<br> <br>
+			<h1 class="gametitle">訓練振り返り</h1>
+<br><br>
+    <h2>卒業後の予定</h2>
+           <ul class="setumei">
+		<li>Javaを使ったシステム開発がやりたい</li>
+		<li>東京で就職して引っ越したい</li>
+    </ul>
+    <br>
+    <div class="hikonyann-container">
+    <img  src="images/hikonyan.jpg" alt="ひこにゃん" class="hikonyann">
+    </div>
+    <br>
+    <h2>みなさんに一言</h2>
+    <p class="hitokoto">
+		私は4ヶ月の訓練を頑張ったことで､まるで別人のように成長できました｡<br>
+		一人では絶対にここまで頑張ることはできませんでした｡<br>
+		同じ教室で学んだ皆さんのおかげです｡<br>
+		ありがとうございました｡
+	</p>
+  </div>
+  
+  <footer>
+    <p>2023 ALL RIGHT RESERVED.</p>
+  </footer>
+</body>
+
+</html>

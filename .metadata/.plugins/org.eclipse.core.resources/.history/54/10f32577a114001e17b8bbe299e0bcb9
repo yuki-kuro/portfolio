@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+
+
+.nyuuryoku {
+  display: flex; /* Flexコンテナとして要素を配置する */
+  flex-direction: column; /* 要素を縦方向に配置する */
+  align-items: center; /* 要素を中央に配置する */
+  	font-size: 20px;
+}
+.nyuuryoku p,
+.nyuuryoku form {
+  text-align: left; /* 左揃え */
+  width: 300px;
+}
+.nyuuryokuform{
+	height:30px;
+	font-size: 20px;
+}
+.hantei{
+	  display: flex; /* Flexコンテナとして要素を配置する */
+  flex-direction: column; /* 要素を縦方向に配置する */
+  align-items: center; /* 要素を中央に配置する */ 
+}
+.hantei p {
+  text-align: left; /* 左揃え */
+  width: 300px;
+}
+.clear{
+  display: flex; /* Flexコンテナとして要素を配置する */
+  flex-direction: column; /* 要素を縦方向に配置する */
+  align-items: center; /* 要素を中央に配置する */
+  font-size: 20px;
+}

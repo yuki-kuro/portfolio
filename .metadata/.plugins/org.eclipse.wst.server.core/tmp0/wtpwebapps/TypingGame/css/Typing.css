@@ -11,7 +11,7 @@
 .nyuuryoku p,
 .nyuuryoku form {
   text-align: left; /* 左揃え */
-  width: 200px;
+  width: 350px;
 }
 .nyuuryokuform{
 	height:30px;
@@ -24,7 +24,7 @@
 }
 .hantei p {
   text-align: left; /* 左揃え */
-  width: 200px;
+  width: 350px;
 }
 .clear{
   display: flex; /* Flexコンテナとして要素を配置する */

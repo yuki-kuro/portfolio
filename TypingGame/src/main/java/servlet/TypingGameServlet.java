@@ -14,11 +14,14 @@ import javax.servlet.http.HttpSession;
 public class TypingGameServlet extends HttpServlet {
 	// words 配列に単語を格納する
 	String[][] words = {
-			{ "りんご", "ringo" },
-			{ "ばなな", "banana" },
-			{ "さくらんぼ", "sakuranbo" },
-			{ "いぬ", "inu" },
-			{ "ぞう", "zou" }
+			{ "サーブレットクラス", "sa-burettokurasu" },
+			{ "アノテーション", "anote-syonn" },
+			{ "リクエストスコープ", "rikuesutosuko-pu" },
+			{ "セッションスコープ", "sessyonsuko-pu" },
+			{ "アプリケーションスコープ", "apurike-syonsuko-pu" },
+			{ "ガベージコレクション","gabe-jikorekusyonn"},
+			{ "フォワード","fowa-do"},
+			{ "プロパティ","puropathi"}
 	};
 
 	// 現在の単語を除いたランダムな単語を選ぶメソッド
