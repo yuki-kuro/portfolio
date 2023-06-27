@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.image-container{
+	display: flex;
+	  justify-content: center;
+  align-items: center;
+}
+
+.janbutton {
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-bottom: solid 2px #c0c0c0;
+    border-radius: 50%;
+    box-shadow: inset 15px 30px 40px rgba(255, 255, 255, 0.5), 0 3px 7px rgba(0, 0, 0, .2);
+    background-image: linear-gradient(#6f6d34 0%, #5f5d24 100%);
+    color: #f6efef;
+    font-weight: 600;
+    font-size: 1em;
+    margin: 0 10px; /* ボタン間の余白を調整 */
+    cursor: pointer;
+}
+
+
+.wrapper-content{
+	text-align: center;
+}
+.image-container2{
+	display: flex;
+	justify-content: center; 
+	align-items: center;
+}
+.hand{
+	background-color: white;
+}

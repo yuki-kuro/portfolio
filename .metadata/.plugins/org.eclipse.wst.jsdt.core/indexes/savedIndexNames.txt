@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\SB\Desktop\sotugyou_02_kuroki\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3538403100.index
+1900067585.index
+1982475359.index
+4229149132.index
+1109235917.index
+3611592828.index

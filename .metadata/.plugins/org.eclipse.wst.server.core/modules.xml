@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:BJServletRensyu2" serverId="Tomcat9_Java17"/>
+  <module moduleId="org.eclipse.jst.jee.server:JankenServletGame" serverId="Tomcat9_Java17"/>
+  <module moduleId="org.eclipse.jst.jee.server:TypingGame" serverId="Tomcat9_Java17"/>
+</modules>

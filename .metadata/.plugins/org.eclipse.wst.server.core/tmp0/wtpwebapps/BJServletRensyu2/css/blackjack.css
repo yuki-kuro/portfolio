@@ -1,0 +1,46 @@
+@charset "UTF-8";
+.gamebody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ .myTable{
+ border-collapse: collapse
+ }
+   .button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+    .button-container button {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+ .bjbtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    padding: 8px;
+    border: none;
+    border-radius: 50%;
+    box-shadow: 0 10px 10px rgb(0 0 0 / 20%);
+    background-image: linear-gradient(0, #ddd, #fff);
+    color: #333333;
+    font-weight: 600;
+    font-size: .9em;
+    transition: transform .3s, box-shadow .3s;
+}
+
+.bjbtn:hover {
+    transform: scale(.99);
+    box-shadow: 0 5px 5px rgb(0 0 0 / 20%);
+}
+
+.bjbtn span {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-image: linear-gradient(0, #fff, #ddd);
+    line-height: 64px;
+}
