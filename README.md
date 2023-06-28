@@ -1,5 +1,10 @@
 # ポートフォリオ
 職業訓練の卒業制作として作りました｡
+
+
+https://github.com/yuki-kuro/portfolio/assets/68685590/f40cadbf-6af2-412e-8e13-6b1f0016a9e5
+
+
 # 概要
 * TOP
 * 制作物1: じゃんけんゲーム
