@@ -23,9 +23,4 @@ https://github.com/yuki-kuro/portfolio/assets/68685590/f40cadbf-6af2-412e-8e13-6
 * データベースと連携したセーブ､ロード機能
 * javascriptでアニメーションをつける
 * スタートボタンを押してからゲームクリアまでの時間を計測する機能
-#GIF画像
-![janken](https://github.com/yuki-kuro/portfolio/assets/68685590/6321d515-340f-47af-a7e6-2f52d14fc09f)
 
-![blackjack](https://github.com/yuki-kuro/portfolio/assets/68685590/9bb664f6-573f-4e3c-88c5-532aab39f0f4)
-
-![typing](https://github.com/yuki-kuro/portfolio/assets/68685590/16c9899a-aa3a-4f5f-b084-90a08893ed2c)
