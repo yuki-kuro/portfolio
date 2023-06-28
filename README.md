@@ -1,5 +1,5 @@
 # ポートフォリオ
-職業訓練の卒業制作として作りました｡
+職業訓練の卒業制作です｡
 
 
 https://github.com/yuki-kuro/portfolio/assets/68685590/f40cadbf-6af2-412e-8e13-6b1f0016a9e5
