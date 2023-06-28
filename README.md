@@ -2,7 +2,9 @@
 職業訓練の卒業制作です｡
 
 
-https://github.com/yuki-kuro/portfolio/assets/68685590/f40cadbf-6af2-412e-8e13-6b1f0016a9e5
+
+https://github.com/yuki-kuro/portfolio/assets/68685590/684d7a67-664e-40bf-8b0b-0f61c204f667
+
 
 
 # 概要
